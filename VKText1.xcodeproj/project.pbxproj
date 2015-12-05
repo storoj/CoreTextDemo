@@ -9,10 +9,23 @@
 /* Begin PBXBuildFile section */
 		324F7A3D1C11E8FB00DAD5ED /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A3C1C11E8FB00DAD5ED /* main.m */; };
 		324F7A401C11E8FB00DAD5ED /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A3F1C11E8FB00DAD5ED /* AppDelegate.m */; };
-		324F7A431C11E8FB00DAD5ED /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A421C11E8FB00DAD5ED /* ViewController.m */; };
-		324F7A461C11E8FB00DAD5ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 324F7A441C11E8FB00DAD5ED /* Main.storyboard */; };
 		324F7A481C11E8FB00DAD5ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 324F7A471C11E8FB00DAD5ED /* Assets.xcassets */; };
 		324F7A4B1C11E8FB00DAD5ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 324F7A491C11E8FB00DAD5ED /* LaunchScreen.storyboard */; };
+		324F7A531C11EBD200DAD5ED /* posts.json in Resources */ = {isa = PBXBuildFile; fileRef = 324F7A521C11EBD200DAD5ED /* posts.json */; };
+		324F7A561C11ED1D00DAD5ED /* Utility.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A551C11ED1D00DAD5ED /* Utility.m */; };
+		324F7A6D1C12498C00DAD5ED /* CTLabelSimple.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A6C1C12498C00DAD5ED /* CTLabelSimple.m */; };
+		324F7A701C125D8500DAD5ED /* CTViewController1.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A6F1C125D8500DAD5ED /* CTViewController1.m */; };
+		324F7A731C125E7200DAD5ED /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A721C125E7200DAD5ED /* RootViewController.m */; };
+		324F7A781C1267CE00DAD5ED /* RenderedText1.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A771C1267CE00DAD5ED /* RenderedText1.m */; };
+		324F7A7B1C126A5A00DAD5ED /* RenderedTextLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A7A1C126A5A00DAD5ED /* RenderedTextLabel.m */; };
+		324F7A7E1C126AA900DAD5ED /* CTViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A7D1C126AA900DAD5ED /* CTViewController2.m */; };
+		324F7A821C12710600DAD5ED /* RenderedText2.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A811C12710600DAD5ED /* RenderedText2.m */; };
+		324F7A881C12778D00DAD5ED /* CTViewController4.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A871C12778D00DAD5ED /* CTViewController4.m */; };
+		324F7A8C1C127CB200DAD5ED /* CTLabelSimple2.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A8B1C127CB200DAD5ED /* CTLabelSimple2.m */; };
+		324F7A8F1C127E5F00DAD5ED /* CTViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A8E1C127E5F00DAD5ED /* CTViewController3.m */; };
+		324F7A931C12A63200DAD5ED /* CTBonusViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A921C12A63200DAD5ED /* CTBonusViewController.m */; };
+		324F7A971C12C55500DAD5ED /* CTLinkLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A961C12C55500DAD5ED /* CTLinkLabel.m */; };
+		324F7A9A1C12C5CC00DAD5ED /* CTViewController5.m in Sources */ = {isa = PBXBuildFile; fileRef = 324F7A991C12C5CC00DAD5ED /* CTViewController5.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,12 +33,39 @@
 		324F7A3C1C11E8FB00DAD5ED /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		324F7A3E1C11E8FB00DAD5ED /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		324F7A3F1C11E8FB00DAD5ED /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		324F7A411C11E8FB00DAD5ED /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		324F7A421C11E8FB00DAD5ED /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		324F7A451C11E8FB00DAD5ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		324F7A471C11E8FB00DAD5ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		324F7A4A1C11E8FB00DAD5ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		324F7A4C1C11E8FB00DAD5ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		324F7A521C11EBD200DAD5ED /* posts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = posts.json; sourceTree = "<group>"; };
+		324F7A541C11ED1D00DAD5ED /* Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Utility.h; sourceTree = "<group>"; };
+		324F7A551C11ED1D00DAD5ED /* Utility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Utility.m; sourceTree = "<group>"; };
+		324F7A6B1C12498C00DAD5ED /* CTLabelSimple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CTLabelSimple.h; path = ../CTLabelSimple.h; sourceTree = "<group>"; };
+		324F7A6C1C12498C00DAD5ED /* CTLabelSimple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CTLabelSimple.m; path = ../CTLabelSimple.m; sourceTree = "<group>"; };
+		324F7A6E1C125D8500DAD5ED /* CTViewController1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CTViewController1.h; path = ../CTViewController1.h; sourceTree = "<group>"; };
+		324F7A6F1C125D8500DAD5ED /* CTViewController1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CTViewController1.m; path = ../CTViewController1.m; sourceTree = "<group>"; };
+		324F7A711C125E7200DAD5ED /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		324F7A721C125E7200DAD5ED /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		324F7A761C1267CE00DAD5ED /* RenderedText1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RenderedText1.h; sourceTree = "<group>"; };
+		324F7A771C1267CE00DAD5ED /* RenderedText1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RenderedText1.m; sourceTree = "<group>"; };
+		324F7A791C126A5A00DAD5ED /* RenderedTextLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RenderedTextLabel.h; sourceTree = "<group>"; };
+		324F7A7A1C126A5A00DAD5ED /* RenderedTextLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RenderedTextLabel.m; sourceTree = "<group>"; };
+		324F7A7C1C126AA900DAD5ED /* CTViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTViewController2.h; sourceTree = "<group>"; };
+		324F7A7D1C126AA900DAD5ED /* CTViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTViewController2.m; sourceTree = "<group>"; };
+		324F7A801C12710600DAD5ED /* RenderedText2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RenderedText2.h; sourceTree = "<group>"; };
+		324F7A811C12710600DAD5ED /* RenderedText2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RenderedText2.m; sourceTree = "<group>"; };
+		324F7A831C1276F700DAD5ED /* RenderedTextProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RenderedTextProtocol.h; sourceTree = "<group>"; };
+		324F7A861C12778D00DAD5ED /* CTViewController4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTViewController4.h; sourceTree = "<group>"; };
+		324F7A871C12778D00DAD5ED /* CTViewController4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTViewController4.m; sourceTree = "<group>"; };
+		324F7A8A1C127CB200DAD5ED /* CTLabelSimple2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTLabelSimple2.h; sourceTree = "<group>"; };
+		324F7A8B1C127CB200DAD5ED /* CTLabelSimple2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTLabelSimple2.m; sourceTree = "<group>"; };
+		324F7A8D1C127E5F00DAD5ED /* CTViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTViewController3.h; sourceTree = "<group>"; };
+		324F7A8E1C127E5F00DAD5ED /* CTViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTViewController3.m; sourceTree = "<group>"; };
+		324F7A911C12A63200DAD5ED /* CTBonusViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTBonusViewController.h; sourceTree = "<group>"; };
+		324F7A921C12A63200DAD5ED /* CTBonusViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTBonusViewController.m; sourceTree = "<group>"; };
+		324F7A951C12C55500DAD5ED /* CTLinkLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTLinkLabel.h; sourceTree = "<group>"; };
+		324F7A961C12C55500DAD5ED /* CTLinkLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTLinkLabel.m; sourceTree = "<group>"; };
+		324F7A981C12C5CC00DAD5ED /* CTViewController5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTViewController5.h; sourceTree = "<group>"; };
+		324F7A991C12C5CC00DAD5ED /* CTViewController5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTViewController5.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +98,19 @@
 		324F7A3A1C11E8FB00DAD5ED /* VKText1 */ = {
 			isa = PBXGroup;
 			children = (
+				324F7A901C12A61A00DAD5ED /* CTBonus */,
+				324F7A941C12C2E100DAD5ED /* CT5 */,
+				324F7A7F1C1270FA00DAD5ED /* CT4 */,
+				324F7A891C127CA500DAD5ED /* CT3 */,
+				324F7A751C1267B600DAD5ED /* CT2 */,
+				324F7A741C1267A300DAD5ED /* CT1 */,
 				324F7A3E1C11E8FB00DAD5ED /* AppDelegate.h */,
 				324F7A3F1C11E8FB00DAD5ED /* AppDelegate.m */,
-				324F7A411C11E8FB00DAD5ED /* ViewController.h */,
-				324F7A421C11E8FB00DAD5ED /* ViewController.m */,
-				324F7A441C11E8FB00DAD5ED /* Main.storyboard */,
+				324F7A711C125E7200DAD5ED /* RootViewController.h */,
+				324F7A721C125E7200DAD5ED /* RootViewController.m */,
+				324F7A521C11EBD200DAD5ED /* posts.json */,
+				324F7A541C11ED1D00DAD5ED /* Utility.h */,
+				324F7A551C11ED1D00DAD5ED /* Utility.m */,
 				324F7A471C11E8FB00DAD5ED /* Assets.xcassets */,
 				324F7A491C11E8FB00DAD5ED /* LaunchScreen.storyboard */,
 				324F7A4C1C11E8FB00DAD5ED /* Info.plist */,
@@ -77,6 +125,73 @@
 				324F7A3C1C11E8FB00DAD5ED /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		324F7A741C1267A300DAD5ED /* CT1 */ = {
+			isa = PBXGroup;
+			children = (
+				324F7A6E1C125D8500DAD5ED /* CTViewController1.h */,
+				324F7A6F1C125D8500DAD5ED /* CTViewController1.m */,
+				324F7A6B1C12498C00DAD5ED /* CTLabelSimple.h */,
+				324F7A6C1C12498C00DAD5ED /* CTLabelSimple.m */,
+			);
+			name = CT1;
+			sourceTree = "<group>";
+		};
+		324F7A751C1267B600DAD5ED /* CT2 */ = {
+			isa = PBXGroup;
+			children = (
+				324F7A761C1267CE00DAD5ED /* RenderedText1.h */,
+				324F7A771C1267CE00DAD5ED /* RenderedText1.m */,
+				324F7A791C126A5A00DAD5ED /* RenderedTextLabel.h */,
+				324F7A7A1C126A5A00DAD5ED /* RenderedTextLabel.m */,
+				324F7A7C1C126AA900DAD5ED /* CTViewController2.h */,
+				324F7A7D1C126AA900DAD5ED /* CTViewController2.m */,
+				324F7A831C1276F700DAD5ED /* RenderedTextProtocol.h */,
+			);
+			name = CT2;
+			sourceTree = "<group>";
+		};
+		324F7A7F1C1270FA00DAD5ED /* CT4 */ = {
+			isa = PBXGroup;
+			children = (
+				324F7A801C12710600DAD5ED /* RenderedText2.h */,
+				324F7A811C12710600DAD5ED /* RenderedText2.m */,
+				324F7A861C12778D00DAD5ED /* CTViewController4.h */,
+				324F7A871C12778D00DAD5ED /* CTViewController4.m */,
+			);
+			name = CT4;
+			sourceTree = "<group>";
+		};
+		324F7A891C127CA500DAD5ED /* CT3 */ = {
+			isa = PBXGroup;
+			children = (
+				324F7A8A1C127CB200DAD5ED /* CTLabelSimple2.h */,
+				324F7A8B1C127CB200DAD5ED /* CTLabelSimple2.m */,
+				324F7A8D1C127E5F00DAD5ED /* CTViewController3.h */,
+				324F7A8E1C127E5F00DAD5ED /* CTViewController3.m */,
+			);
+			name = CT3;
+			sourceTree = "<group>";
+		};
+		324F7A901C12A61A00DAD5ED /* CTBonus */ = {
+			isa = PBXGroup;
+			children = (
+				324F7A911C12A63200DAD5ED /* CTBonusViewController.h */,
+				324F7A921C12A63200DAD5ED /* CTBonusViewController.m */,
+			);
+			name = CTBonus;
+			sourceTree = "<group>";
+		};
+		324F7A941C12C2E100DAD5ED /* CT5 */ = {
+			isa = PBXGroup;
+			children = (
+				324F7A951C12C55500DAD5ED /* CTLinkLabel.h */,
+				324F7A961C12C55500DAD5ED /* CTLinkLabel.m */,
+				324F7A981C12C5CC00DAD5ED /* CTViewController5.h */,
+				324F7A991C12C5CC00DAD5ED /* CTViewController5.m */,
+			);
+			name = CT5;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,7 +253,7 @@
 			files = (
 				324F7A4B1C11E8FB00DAD5ED /* LaunchScreen.storyboard in Resources */,
 				324F7A481C11E8FB00DAD5ED /* Assets.xcassets in Resources */,
-				324F7A461C11E8FB00DAD5ED /* Main.storyboard in Resources */,
+				324F7A531C11EBD200DAD5ED /* posts.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,23 +264,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				324F7A431C11E8FB00DAD5ED /* ViewController.m in Sources */,
+				324F7A971C12C55500DAD5ED /* CTLinkLabel.m in Sources */,
+				324F7A561C11ED1D00DAD5ED /* Utility.m in Sources */,
+				324F7A8F1C127E5F00DAD5ED /* CTViewController3.m in Sources */,
+				324F7A781C1267CE00DAD5ED /* RenderedText1.m in Sources */,
+				324F7A6D1C12498C00DAD5ED /* CTLabelSimple.m in Sources */,
+				324F7A881C12778D00DAD5ED /* CTViewController4.m in Sources */,
 				324F7A401C11E8FB00DAD5ED /* AppDelegate.m in Sources */,
+				324F7A731C125E7200DAD5ED /* RootViewController.m in Sources */,
+				324F7A701C125D8500DAD5ED /* CTViewController1.m in Sources */,
+				324F7A9A1C12C5CC00DAD5ED /* CTViewController5.m in Sources */,
+				324F7A821C12710600DAD5ED /* RenderedText2.m in Sources */,
+				324F7A7B1C126A5A00DAD5ED /* RenderedTextLabel.m in Sources */,
 				324F7A3D1C11E8FB00DAD5ED /* main.m in Sources */,
+				324F7A7E1C126AA900DAD5ED /* CTViewController2.m in Sources */,
+				324F7A8C1C127CB200DAD5ED /* CTLabelSimple2.m in Sources */,
+				324F7A931C12A63200DAD5ED /* CTBonusViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		324F7A441C11E8FB00DAD5ED /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				324F7A451C11E8FB00DAD5ED /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		324F7A491C11E8FB00DAD5ED /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -213,7 +333,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -250,7 +370,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
